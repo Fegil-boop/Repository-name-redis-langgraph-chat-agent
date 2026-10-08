@@ -1,0 +1,22 @@
+{
+    "101": {
+        "name": "Arun",
+        "department": "CSE",
+        "attendance": 82
+    },
+    "102": {
+        "name": "Priya",
+        "department": "AI",
+        "attendance": 91
+    },
+    "103": {
+        "name": "S. fegil",
+        "department": "CSE",
+        "attendance": 76
+    },
+    "104": {
+        "name": "Fegil",
+        "department": "CSE",
+        "attendance": 76
+    }
+}
